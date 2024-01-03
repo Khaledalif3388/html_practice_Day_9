@@ -1,0 +1,11 @@
+Media in html
+imag add... img tag
+audio file... audio tag..controls must be given
+video file integrate...video/iframe
+        video te o controls must dite hobe...iframe a youtube video link 
+        korte gele https://youtube.com/embed/id ei format a dite hobe...
+        iframe a map or other website nijer website a dekhaite use kora hoi...
+mdoern html
+        sidebar er jonno aside tag use kora hoi...
+
+Bookmark create using id te id r anchor tag a href a #id use kore.
